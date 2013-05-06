@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.email       = ["papipo@gmail.com"]
   s.homepage    = "https://github.com/Papipo/damselfly"
   s.summary     = "Rails engine to add polymorphic file attachments leveraging dragonfly and counting references to avoid duplicates."
-  s.description = "Rails engine to add polymorphic file attachments leveraging dragonfly and counting references to avoid duplicates.."
+  s.description = "Rails engine to add polymorphic file attachments leveraging dragonfly and counting references to avoid duplicates."
 
   s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
 
