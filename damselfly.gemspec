@@ -7,11 +7,11 @@ require "damselfly/version"
 Gem::Specification.new do |s|
   s.name        = "damselfly"
   s.version     = Damselfly::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Damselfly."
-  s.description = "TODO: Description of Damselfly."
+  s.authors     = ["Rodrigo Alvarez"]
+  s.email       = ["papipo@gmail.com"]
+  s.homepage    = "https://github.com/Papipo/damselfly"
+  s.summary     = "Rails engine to add polymorphic file attachments leveraging dragonfly and counting references to avoid duplicates."
+  s.description = "Rails engine to add polymorphic file attachments leveraging dragonfly and counting references to avoid duplicates.."
 
   s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
 
